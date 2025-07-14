@@ -14,17 +14,17 @@ import '../assets/styles/Project.scss';
 function Project() {
     return(
     <div className="projects-container" id="projects">
-        <h1>Projets</h1>
+        <h1>Accomplissement</h1>
         <div className="projects-grid">
             <div className="project">
                 <a href="https://www.renolow.be" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.renolow.be" target="_blank" rel="noreferrer"><h2>Projet Renolow</h2></a>
-                <p>Participation au volet Recherche et Documentation sur la Rénovation écologique du batiment.</p>
+                <a href="https://www.renolow.be" target="_blank" rel="noreferrer"><h2>Renolow</h2></a>
+                <p>Recherche et Documentation sur la rénovation écologique du batiment.</p>
             </div>
             <div className="project">
                 <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><h2>ALIUS Recherche</h2></a>
-                <p>Coédition du Bulletin du groupe de recherche ALIUS comprenant des interviews de chercheur-se-s sur la conscience.</p>
+                <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><h2>Bulletin ALIUS</h2></a>
+                <p>Bulletins du groupe de recherche ALIUS comprenant des interviews de chercheur-se-s sur la conscience.</p>
             </div>
             <div className="project">
                 <a href="https://theses.fr/2020UPSLE043" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
