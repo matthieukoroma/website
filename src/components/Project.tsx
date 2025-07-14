@@ -22,6 +22,11 @@ function Project() {
                 <p>Fonds Renobatex pour la Recherche et Documentation du projet Renolow sur la rénovation écologique du batiment.</p>
             </div>
             <div className="project">
+                <a href="https://neuroscience.cam.ac.uk/camneuro-events/cns2024-sleep-consciousness-cognition/" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://neuroscience.cam.ac.uk/camneuro-events/cns2024-sleep-consciousness-cognition/" target="_blank" rel="noreferrer"><h2>Coeur conscient</h2></a>
+                <p>Prix Post-Doctorant de l'Université de Cambridge sur les corrélats cardiaques des marqueurs de la conscience.</p>
+            </div>
+            <div className="project">
                 <a href="https://www.fondationbs.org/notre-communaute/laureats-et-projets/matthieu-koroma" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.fondationbs.org/notre-communaute/laureats-et-projets/matthieu-koroma" target="_blank" rel="noreferrer"><h2>Sentience corporelle</h2></a>
                 <p>Prix Bettencourt pour la recherche sur les marqueurs corporels de la sentience en état de faible vigilance.</p>
