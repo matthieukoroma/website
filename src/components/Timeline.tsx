@@ -10,7 +10,7 @@ function Timeline() {
   return (
     <div id="history">
       <div className="items-container">
-        <h1>Career History</h1>
+        <h1>Parcours</h1>
         <VerticalTimeline>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
@@ -19,23 +19,12 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Low Tech Liège ASBL</h3>
-            <h4 className="vertical-timeline-element-subtitle">Liège, Belgique</h4>
+            <h4 className="vertical-timeline-element-subtitle">B3</h4>
             <p>
             Rénovation Low-Tech, Ecole Low-Tech Santé, Équité et résilience numérique, Recherche et Documentation 
             </p>
             </VerticalTimelineElement>
-            <VerticalTimelineElement
-            className="vertical-timeline-element--work"
-            date="2016 - 2024"
-            iconStyle={{ background: '#FFD300', color: 'rgb(39, 40, 34)' }}
-            icon={<FontAwesomeIcon icon={faBriefcase} />}
-          >
-            <h3 className="vertical-timeline-element-title">ALIUS Recherche</h3>
-            <h4 className="vertical-timeline-element-subtitle">Réseau International</h4>
-            <p>
-              Coordination du réseau, Conférences internationales, Co-édition d'un Bulletin, Entretiens sur la conscience
-            </p>
-          </VerticalTimelineElement>
+
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
@@ -45,21 +34,35 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Chargé de Recherche FNRS</h3>
-            <h4 className="vertical-timeline-element-subtitle">Liège, Belgique</h4>
+            <h4 className="vertical-timeline-element-subtitle">Université de Liège</h4>
             <p>
               Collaboration Internationale, Financement Science Ouverte, Prix Bettencourt Jeunes Chercheurs, Prix Post-doctorant de l'Université de Cambridge 
             </p>
           </VerticalTimelineElement>
+
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            date="2016 - 2024"
+            iconStyle={{ background: '#FFD300', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h3 className="vertical-timeline-element-title">Groupe de recherche ALIUS</h3>
+            <h4 className="vertical-timeline-element-subtitle">International</h4>
+            <p>
+              Coordination du groupe de recherche, Conférences internationales, Co-édition du Bulletin, Entretiens sur la conscience
+            </p>
+          </VerticalTimelineElement>
+
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             date="2016 - 2020"
             iconStyle={{ background: '#FFD300', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Formation universitaire</h3>
-            <h4 className="vertical-timeline-element-subtitle">Paris, France</h4>
+            <h3 className="vertical-timeline-element-title">Docteur CNRS en Neuroscience</h3>
+            <h4 className="vertical-timeline-element-subtitle">Paris</h4>
             <p>
-              Doctorat Neurosciences, Licence de Philosophie, Licence de Biologie, Classes préparatoires Biologie
+              Monitorat "Ingénerie Cognitive", Licence de Philosophie, Licence de Biologie, Classes préparatoires Biologie
             </p>
           
           </VerticalTimelineElement>
