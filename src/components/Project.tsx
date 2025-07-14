@@ -17,38 +17,38 @@ function Project() {
         <h1>Projets</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="https://www.renolow.be" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.renolow.be" target="_blank" rel="noreferrer"><h2>Renolow</h2></a>
+                <a href="https://www.renolow.be" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.renolow.be" target="_blank" rel="noreferrer"><h2>Projet Renolow</h2></a>
                 <p>Participation au volet Recherche et Documentation sur la Rénovation écologique du batiment.</p>
             </div>
             <div className="project">
-                <a href="https://theses.fr/2020UPSLE043" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://theses.fr/2020UPSLE043" target="_blank" rel="noreferrer"><h2>High Speed Chase</h2></a>
+                <a href="https://theses.fr/2020UPSLE043" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://theses.fr/2020UPSLE043" target="_blank" rel="noreferrer"><h2>Doctorat CNRS</h2></a>
                 <p>Thèse de doctorat CNRS sur le décodage neuronale des états de vigilance au cours de l'éveil et du sommeil.</p>
             </div>
             <div className="project">
-                <a href="https://www.fondationbs.org/notre-communaute/laureats-et-projets/matthieu-koroma" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.fondationbs.org/notre-communaute/laureats-et-projets/matthieu-koroma" target="_blank" rel="noreferrer"><h2>Astro Raiders</h2></a>
+                <a href="https://www.fondationbs.org/notre-communaute/laureats-et-projets/matthieu-koroma" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.fondationbs.org/notre-communaute/laureats-et-projets/matthieu-koroma" target="_blank" rel="noreferrer"><h2>Prix Bettencourt</h2></a>
                 <p>Prix Bettencourt pour la recherche sur les corrélats corporels de la sentience des les états de vigilance .</p>
             </div>
             <div className="project">
-                <a href="https://dailyscience.be/28/03/2024/33125/" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://dailyscience.be/28/03/2024/33125/" target="_blank" rel="noreferrer"><h2>Datum: Integrated Learning Platform</h2></a>
+                <a href="https://www.giga.uliege.be/cms/c_12409181/fr/entendre-des-mots-relaxants-dans-son-sommeil-ralentit-le-rythme-cardiaque" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.giga.uliege.be/cms/c_12409181/fr/entendre-des-mots-relaxants-dans-son-sommeil-ralentit-le-rythme-cardiaque" target="_blank" rel="noreferrer"><h2>Relaxation cardiaque</h2></a>
                 <p>Travaux de recherches sur les réponses cardiaques aux stimulations auditives durant le sommeil.</p>
             </div>
             <div className="project">
-                <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><h2>WeManage: Real Estate Asset Management</h2></a>
+                <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><h2>ALIUS Recherche</h2></a>
                 <p>Coédition du Bulletin du groupe de recherche ALIUS comprenant des interviews de chercheur-se-s sur la conscience.</p>
             </div>
             <div className="project">
-                <a href="https://theconversation.com/hypnopedie-peut-on-apprendre-une-langue-etrangere-en-dormant-184113" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://theconversation.com/hypnopedie-peut-on-apprendre-une-langue-etrangere-en-dormant-184113" target="_blank" rel="noreferrer"><h2>Programs of Study</h2></a>
+                <a href="https://theconversation.com/hypnopedie-peut-on-apprendre-une-langue-etrangere-en-dormant-184113" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://theconversation.com/hypnopedie-peut-on-apprendre-une-langue-etrangere-en-dormant-184113" target="_blank" rel="noreferrer"><h2>Hypnopédie</h2></a>
                 <p>Recherche sur l'apprentissage d'une langue étrangère pendant le sommeil et ses corrélats neuronaux.</p>
             </div>
             <div className="project">
-                <a href="https://www.cnrs.fr/sites/default/files/press_info/2019-02/CP_Kouider_sommeilFRWeb.pdf" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.cnrs.fr/sites/default/files/press_info/2019-02/CP_Kouider_sommeilFRWeb.pdf" target="_blank" rel="noreferrer"><h2>Transfer Evaluation Matrix</h2></a>
+                <a href="https://www.cnrs.fr/sites/default/files/press_info/2019-02/CP_Kouider_sommeilFRWeb.pdf" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.cnrs.fr/sites/default/files/press_info/2019-02/CP_Kouider_sommeilFRWeb.pdf" target="_blank" rel="noreferrer"><h2>Sommeil Paradoxal</h2></a>
                 <p>Recherche sur l'orientation de l'attention pendant le sommeil grâce au décodage neuronal.</p>
             </div>
         </div>

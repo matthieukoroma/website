@@ -19,9 +19,9 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Low Tech Liège ASBL</h3>
-            <h4 className="vertical-timeline-element-subtitle">B3</h4>
+            <h4 className="vertical-timeline-element-subtitle">Centre de ressources et de créativité de la Province de Liège</h4>
             <p>
-            Rénovation Low-Tech, Ecole Low-Tech Santé, Équité et résilience numérique, Recherche et Documentation 
+            Recherche et Documentation, Équité et résilience numérique, Rénovation Low-Tech, Ecole Low-Tech Santé 
             </p>
             </VerticalTimelineElement>
 
@@ -46,8 +46,8 @@ function Timeline() {
             iconStyle={{ background: '#FFD300', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Groupe de recherche ALIUS</h3>
-            <h4 className="vertical-timeline-element-subtitle">International</h4>
+            <h3 className="vertical-timeline-element-title">Coordinateur ALIUS</h3>
+            <h4 className="vertical-timeline-element-subtitle">Groupe de recherche International</h4>
             <p>
               Coordination du groupe de recherche, Conférences internationales, Co-édition du Bulletin, Entretiens sur la conscience
             </p>
@@ -60,7 +60,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Docteur CNRS en Neuroscience</h3>
-            <h4 className="vertical-timeline-element-subtitle">Paris</h4>
+            <h4 className="vertical-timeline-element-subtitle">Ecole Normale Supérieure</h4>
             <p>
               Monitorat "Ingénerie Cognitive", Licence de Philosophie, Licence de Biologie, Classes préparatoires Biologie
             </p>
