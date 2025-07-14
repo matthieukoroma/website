@@ -18,8 +18,8 @@ function Project() {
         <div className="projects-grid">
             <div className="project">
                 <a href="https://www.renolow.be" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.renolow.be" target="_blank" rel="noreferrer"><h2>Renolow</h2></a>
-                <p>Recherche et Documentation sur la rénovation écologique du batiment.</p>
+                <a href="https://www.renolow.be" target="_blank" rel="noreferrer"><h2>Rénovation low-tech</h2></a>
+                <p>Recherche et Documentation du projet Renolow sur la rénovation écologique du batiment.</p>
             </div>
             <div className="project">
                 <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
@@ -38,7 +38,7 @@ function Project() {
             </div>
             <div className="project">
                 <a href="https://theconversation.com/hypnopedie-peut-on-apprendre-une-langue-etrangere-en-dormant-184113" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://theconversation.com/hypnopedie-peut-on-apprendre-une-langue-etrangere-en-dormant-184113" target="_blank" rel="noreferrer"><h2>Hypnopédie</h2></a>
+                <a href="https://theconversation.com/hypnopedie-peut-on-apprendre-une-langue-etrangere-en-dormant-184113" target="_blank" rel="noreferrer"><h2>Apprentissage sommeil</h2></a>
                 <p>Recherche sur l'apprentissage d'une langue étrangère pendant le sommeil et ses corrélats neuronaux.</p>
             </div>
             <div className="project">
@@ -48,12 +48,12 @@ function Project() {
             </div>
             <div className="project">
                 <a href="https://www.fondationbs.org/notre-communaute/laureats-et-projets/matthieu-koroma" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.fondationbs.org/notre-communaute/laureats-et-projets/matthieu-koroma" target="_blank" rel="noreferrer"><h2>Prix Bettencourt</h2></a>
-                <p>Prix Bettencourt pour la recherche sur les corrélats corporels de la sentience des les états de vigilance .</p>
+                <a href="https://www.fondationbs.org/notre-communaute/laureats-et-projets/matthieu-koroma" target="_blank" rel="noreferrer"><h2>Sentience corporelle</h2></a>
+                <p>Prix Bettencourt pour la recherche sur les corrélats corporels de la sentience des les états de vigilance.</p>
             </div>
             <div className="project">
                 <a href="https://neuroscience.cam.ac.uk/camneuro-events/cns2024-sleep-consciousness-cognition/" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://neuroscience.cam.ac.uk/camneuro-events/cns2024-sleep-consciousness-cognition/" target="_blank" rel="noreferrer"><h2>Prix Cambridge</h2></a>
+                <a href="https://neuroscience.cam.ac.uk/camneuro-events/cns2024-sleep-consciousness-cognition/" target="_blank" rel="noreferrer"><h2>Coeur conscient</h2></a>
                 <p>Prix de l'Université de Cambridge pour le poster scientifique catégorie Post-Doctorant.</p>
             </div>
         </div>
