@@ -33,7 +33,7 @@ function Project() {
             </div>
             <div className="project">
                 <a href="https://www.giga.uliege.be/cms/c_12409181/fr/entendre-des-mots-relaxants-dans-son-sommeil-ralentit-le-rythme-cardiaque" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.giga.uliege.be/cms/c_12409181/fr/entendre-des-mots-relaxants-dans-son-sommeil-ralentit-le-rythme-cardiaque" target="_blank" rel="noreferrer"><h2>Relaxation cardiaque</h2></a>
+                <a href="https://www.giga.uliege.be/cms/c_12409181/fr/entendre-des-mots-relaxants-dans-son-sommeil-ralentit-le-rythme-cardiaque" target="_blank" rel="noreferrer"><h2>Relaxation Cardiaque</h2></a>
                 <p>Travaux de recherches sur les réponses cardiaques aux stimulations auditives durant le sommeil.</p>
             </div>
             <div className="project">
