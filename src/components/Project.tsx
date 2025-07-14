@@ -19,7 +19,7 @@ function Project() {
             <div className="project">
                 <a href="https://www.renolow.be" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.renolow.be" target="_blank" rel="noreferrer"><h2>Rénovation low-tech</h2></a>
-                <p>Obtention des fonds pour la Recherche et Documentation du projet Renolow sur la rénovation écologique du batiment.</p>
+                <p>Fonds Renobatex pour la Recherche et Documentation du projet Renolow sur la rénovation écologique du batiment.</p>
             </div>
             <div className="project">
                 <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
@@ -39,7 +39,7 @@ function Project() {
             <div className="project">
                 <a href="https://theses.fr/2020UPSLE043" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://theses.fr/2020UPSLE043" target="_blank" rel="noreferrer"><h2>Doctorat CNRS</h2></a>
-                <p>Thèse de doctorat sur le décodage neuronale des états de vigilance au cours de l'éveil et du sommeil.</p>
+                <p>Thèse de doctorat sur le décodage neuronal des états de vigilance au cours de l'éveil et du sommeil.</p>
             </div>
             <div className="project">
                 <a href="https://www.giga.uliege.be/cms/c_12409181/fr/entendre-des-mots-relaxants-dans-son-sommeil-ralentit-le-rythme-cardiaque" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
@@ -54,7 +54,7 @@ function Project() {
             <div className="project">
                 <a href="https://www.cnrs.fr/sites/default/files/press_info/2019-02/CP_Kouider_sommeilFRWeb.pdf" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.cnrs.fr/sites/default/files/press_info/2019-02/CP_Kouider_sommeilFRWeb.pdf" target="_blank" rel="noreferrer"><h2>Sommeil Paradoxal</h2></a>
-                <p>Publication sur l'orientation de l'attention pendant le sommeil grâce au décodage neuronal.</p>
+                <p>Publication sur l'orientation de l'attention pendant le sommeil et sa relation avec les mouvements occulaires rapides.</p>
             </div>
         </div>
     </div>
