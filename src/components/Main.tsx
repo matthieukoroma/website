@@ -17,7 +17,7 @@ function Main() {
             <a href="https://www.linkedin.com/in/matthieu-koroma-49096994/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <h1>Matthieu Koroma</h1>
-          <p>Chercheur itinérant</p>
+          <p>Chercheur Itinérant, Ouvert et Low-Tech.</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/matthieukoroma/" target="_blank" rel="noreferrer"><GitHubIcon/></a>

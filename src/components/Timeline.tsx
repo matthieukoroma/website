@@ -62,7 +62,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Docteur CNRS en Neuroscience</h3>
             <h4 className="vertical-timeline-element-subtitle">Ecole Normale Supérieure</h4>
             <p>
-              Monitorat "Ingénerie Cognitive", Licence de Philosophie, Licence de Biologie, Classes préparatoires Biologie
+              Master en Sciences Cognitives, Licence de Philosophie, Licence de Biologie, Classes préparatoires Biologie
             </p>
           
           </VerticalTimelineElement>
