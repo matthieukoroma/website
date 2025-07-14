@@ -14,53 +14,54 @@ function Timeline() {
         <VerticalTimeline>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
+            date="2024 - aujourd'hui"
+            iconStyle={{ background: '#FFD300', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h3 className="vertical-timeline-element-title">Low Tech Liège ASBL</h3>
+            <h4 className="vertical-timeline-element-subtitle">Liège, Belgique</h4>
+            <p>
+            Rénovation Low-Tech, Ecole Low-Tech Santé, Équité et résilience numérique, Recherche et Documentation 
+            </p>
+            </VerticalTimelineElement>
+            <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            date="2016 - 2024"
+            iconStyle={{ background: '#FFD300', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h3 className="vertical-timeline-element-title">ALIUS Recherche</h3>
+            <h4 className="vertical-timeline-element-subtitle">Réseau International</h4>
+            <p>
+              Coordination du réseau, Conférences internationales, Co-édition d'un Bulletin, Entretiens sur la conscience
+            </p>
+          </VerticalTimelineElement>
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="2022 - present"
-            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
+            date="2020 - 2024"
+            iconStyle={{ background: '#FFD300', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Technology Consultant</h3>
-            <h4 className="vertical-timeline-element-subtitle">Dallas, TX</h4>
+            <h3 className="vertical-timeline-element-title">Chargé de Recherche FNRS</h3>
+            <h4 className="vertical-timeline-element-subtitle">Liège, Belgique</h4>
             <p>
-              Full-stack Web Development, GenAI/LLM, Project Management, Business Development
+              Collaboration Internationale, Financement Science Ouverte, Prix Bettencourt Jeunes Chercheurs, Prix Post-doctorant de l'Université de Cambridge 
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2022"
-            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
+            date="2016 - 2020"
+            iconStyle={{ background: '#FFD300', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Full Stack Engineer</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">Formation universitaire</h3>
+            <h4 className="vertical-timeline-element-subtitle">Paris, France</h4>
             <p>
-              Frontend Development, Backend Development, User Experience, Team Leading
+              Doctorat Neurosciences, Licence de Philosophie, Licence de Biologie, Classes préparatoires Biologie
             </p>
-          </VerticalTimelineElement>
-          <VerticalTimelineElement
-            className="vertical-timeline-element--work"
-            date="2021 - 2021"
-            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
-            icon={<FontAwesomeIcon icon={faBriefcase} />}
-          >
-            <h3 className="vertical-timeline-element-title">Staff Engineer Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
-            <p>
-              Full-stack Development, API Development, User Experience
-            </p>
-          </VerticalTimelineElement>
-          <VerticalTimelineElement
-            className="vertical-timeline-element--work"
-            date="2020 - 2020"
-            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
-            icon={<FontAwesomeIcon icon={faBriefcase} />}
-          >
-            <h3 className="vertical-timeline-element-title">Data Analyst Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Tokyo, Japan</h4>
-            <p>
-              Automation, Data Governance, Statistical Analysis
-            </p>
+          
           </VerticalTimelineElement>
         </VerticalTimeline>
       </div>

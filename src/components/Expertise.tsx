@@ -49,8 +49,10 @@ function Expertise() {
             <div className="skills-grid">
                 <div className="skill">
                     <FontAwesomeIcon icon={faReact} size="3x"/>
-                    <h3>Full Stack Web Development</h3>
-                    <p>I have built a diverse array of web applications from scratch using modern technologies such as React and Flask. I have a strong proficiency in the SDLC process and frontend + backend development.</p>
+                    <h3>Protocole & Analyse</h3>
+                    <p>
+                        Faire de votre question de recherche un paradigme scientifique; j'utilise l'analyse conceptuelle et la connaissance bibliographique pour établir un paradigme qui répondra à votre question de recherche.
+                    </p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsFirst.map((label, index) => (
@@ -61,8 +63,10 @@ function Expertise() {
 
                 <div className="skill">
                     <FontAwesomeIcon icon={faDocker} size="3x"/>
-                    <h3>DevOps & Automation</h3>
-                    <p>Once the application is built, I help clients set up DevOps testing, CI/CD pipelines, and deployment automation to support the successful Go-Live.</p>
+                    <h3>Projet & Financement</h3>
+                    <p>
+                        Transformer votre paradigme scientifique en programme de financement; j'évalue la pertinence et les champs d'application de votre paradigme pour structurer une stratégie qui assurera le financement de votre recherche.
+                    </p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsSecond.map((label, index) => (
@@ -73,8 +77,10 @@ function Expertise() {
 
                 <div className="skill">
                     <FontAwesomeIcon icon={faPython} size="3x"/>
-                    <h3>GenAI & LLM</h3>
-                    <p>Stay relevant in the market by leveraging the latest AI models in your projects. I have professional experience building enterprise grade GenAI-enabled solutions to empower intelligent decision making.</p>
+                    <h3>Ouverture & Interdisciplinarité</h3>
+                    <p>
+                        Étendre votre programme de financement en champ interdisciplinaire; j'offre une approche systémique en intelligence collective sur l'impact de vos découvertes pour identifier le réseau d'acteurs qui favorisera le décloisonnement de votre secteur.
+                    </p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsThird.map((label, index) => (

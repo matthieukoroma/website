@@ -53,8 +53,8 @@ function Contact() {
     <div id="contact">
       <div className="items-container">
         <div className="contact_wrapper">
-          <h1>Contact Me</h1>
-          <p>Got a project waiting to be realized? Let's collaborate and make it happen!</p>
+          <h1>Contactez-moi</h1>
+          <p>Vous avez envie de réaliser un projet! Contactez-moi!</p>
           <Box
             ref={form}
             component="form"
@@ -66,33 +66,33 @@ function Contact() {
               <TextField
                 required
                 id="outlined-required"
-                label="Your Name"
-                placeholder="What's your name?"
+                label="Votre nom"
+                placeholder="Quel est votre nom?"
                 value={name}
                 onChange={(e) => {
                   setName(e.target.value);
                 }}
                 error={nameError}
-                helperText={nameError ? "Please enter your name" : ""}
+                helperText={nameError ? "Nom" : ""}
               />
               <TextField
                 required
                 id="outlined-required"
-                label="Email / Phone"
-                placeholder="How can I reach you?"
+                label="Email / Téléphone"
+                placeholder="Comment vous joindre?"
                 value={email}
                 onChange={(e) => {
                   setEmail(e.target.value);
                 }}
                 error={emailError}
-                helperText={emailError ? "Please enter your email or phone number" : ""}
+                helperText={emailError ? "Email ou numéro de téléphone" : ""}
               />
             </div>
             <TextField
               required
               id="outlined-multiline-static"
               label="Message"
-              placeholder="Send me any inquiries or questions"
+              placeholder="Demandes et Questions"
               multiline
               rows={10}
               className="body-form"
@@ -101,7 +101,7 @@ function Contact() {
                 setMessage(e.target.value);
               }}
               error={messageError}
-              helperText={messageError ? "Please enter the message" : ""}
+              helperText={messageError ? "Message" : ""}
             />
             <Button variant="contained" endIcon={<SendIcon />} onClick={sendEmail}>
               Send
