@@ -32,6 +32,11 @@ function Project() {
                 <p>Prix Bettencourt pour la recherche sur les marqueurs corporels de la sentience en état de faible vigilance.</p>
             </div>
             <div className="project">
+                <a href="https://www.giga.uliege.be/cms/c_12409181/fr/entendre-des-mots-relaxants-dans-son-sommeil-ralentit-le-rythme-cardiaque" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.giga.uliege.be/cms/c_12409181/fr/entendre-des-mots-relaxants-dans-son-sommeil-ralentit-le-rythme-cardiaque" target="_blank" rel="noreferrer"><h2>Relaxation Cardiaque</h2></a>
+                <p>Publication sur les réponses cardiaques aux stimulations auditives durant le sommeil.</p>
+            </div>
+            <div className="project">
                 <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><h2>Bulletin ALIUS</h2></a>
                 <p>Co-édition des bulletins ALIUS et conduction d'une dizaine d'interviews de chercheur-se-s sur la conscience.</p>
@@ -40,11 +45,6 @@ function Project() {
                 <a href="https://theses.fr/2020UPSLE043" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://theses.fr/2020UPSLE043" target="_blank" rel="noreferrer"><h2>Décodage neuronal</h2></a>
                 <p>Thèse de doctorat sur le décodage électroencéphalographique des états de vigilance au cours de l'éveil et du sommeil.</p>
-            </div>
-            <div className="project">
-                <a href="https://www.giga.uliege.be/cms/c_12409181/fr/entendre-des-mots-relaxants-dans-son-sommeil-ralentit-le-rythme-cardiaque" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.giga.uliege.be/cms/c_12409181/fr/entendre-des-mots-relaxants-dans-son-sommeil-ralentit-le-rythme-cardiaque" target="_blank" rel="noreferrer"><h2>Relaxation Cardiaque</h2></a>
-                <p>Publication sur les réponses cardiaques aux stimulations auditives durant le sommeil.</p>
             </div>
             <div className="project">
                 <a href="https://theconversation.com/hypnopedie-peut-on-apprendre-une-langue-etrangere-en-dormant-184113" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
