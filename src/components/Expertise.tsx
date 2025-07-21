@@ -64,7 +64,7 @@ function Expertise() {
                 <div className="skill">
                     <h3>Ouverture & Interdisciplinarité</h3>
                     <p>
-                        Étendre un programme de financement en champ interdisciplinaire; j'offre une approche systémique dans le cadre de la science ouverte pour identifier le réseau d'acteurs qui favorise le décloisonnement de vos découvertes.
+                        Étendre un programme de financement en champ interdisciplinaire; j'offre une approche systémique dans le cadre de la science ouverte pour fédérer le réseau d'acteurs qui favorise le décloisonnement de vos découvertes.
                     </p>
                 </div>
             </div>
