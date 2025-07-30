@@ -57,14 +57,14 @@ function Expertise() {
                 <div className="skill">
                     <h3>Projet & Financement</h3>
                     <p>
-                        Transformer un paradigme scientifique en programme de financement; j'évalue la pertinence et les champs d'application d'un paradigme scientifique pour structurer une stratégie qui assure un financement de recherche.
+                        Transformer un paradigme scientifique en programme de financement; j'évalue la pertinence et les champs d'application d'un paradigme pour structurer une stratégie qui assure un financement de recherche.
                     </p>
                 </div>
 
                 <div className="skill">
                     <h3>Ouverture & Interdisciplinarité</h3>
                     <p>
-                        Étendre un programme de financement en champ interdisciplinaire; j'offre une approche systémique dans le cadre de la science ouverte pour fédérer le réseau d'acteurs qui favorise le décloisonnement de vos découvertes.
+                        Étendre un programme de financement en champ interdisciplinaire; j'adopte une approche systémique dans le cadre de la science ouverte pour fédérer un réseau d'acteurs qui favorise le décloisonnement des découvertes.
                     </p>
                 </div>
             </div>
