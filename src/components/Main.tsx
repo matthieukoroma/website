@@ -9,7 +9,7 @@ function Main() {
     <div className="container">
       <div className="about-section">
         <div className="image-wrapper">
-          <img src="https://www.gigacrc.uliege.be/upload/docs/image/jpeg/2021-12/matthieu_koroma_2021-12-02_11-14-22_115.jpg" alt="Avatar" />
+          <img src="https://drive.google.com/file/d/1EP2GApE-sQ93rEvvhBlf7gWiZBwQwtPq/view?usp=share_link" alt="Avatar" />
         </div>
         <div className="content">
           <div className="social_icons">
