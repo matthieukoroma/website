@@ -12,18 +12,19 @@ function Timeline() {
       <div className="items-container">
         <h1>Parcours</h1>
         <VerticalTimeline>
+
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             date="2024 - aujourd'hui"
             iconStyle={{ background: '#FFD300', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Low Tech Liège ASBL</h3>
+            <h3 className="vertical-timeline-element-title">Chercheur Low Tech Liège</h3>
             <h4 className="vertical-timeline-element-subtitle">Centre de ressources et de créativité de la Province de Liège</h4>
             <p>
-            Recherche et Documentation, Équité et résilience numérique, Rénovation Low-Tech, Ecole Low-Tech Santé 
+            Recherche et Documentation, Rénovation Low-Tech, Équité et résilience numérique, Ecole Low-Tech Santé 
             </p>
-            </VerticalTimelineElement>
+          </VerticalTimelineElement>
 
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
@@ -36,7 +37,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Chargé de Recherche FNRS</h3>
             <h4 className="vertical-timeline-element-subtitle">Université de Liège</h4>
             <p>
-              Collaboration Internationale, Financement Science Ouverte, Prix Bettencourt Jeunes Chercheurs, Prix Post-doctorant de l'Université de Cambridge 
+            Corrélats corporels de la vigilance, Sentience et perte de conscience, Activité cardiaque du sommeil, Science ouverte et écologie 
             </p>
           </VerticalTimelineElement>
 
@@ -47,9 +48,9 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Coordinateur ALIUS</h3>
-            <h4 className="vertical-timeline-element-subtitle">Groupe de recherche International</h4>
+            <h4 className="vertical-timeline-element-subtitle">ALIUS Research Group</h4>
             <p>
-              Coordination du groupe de recherche, Conférences internationales, Co-édition du Bulletin, Entretiens sur la conscience
+              Etats altérés de conscience, Conférences internationales, Co-édition du Bulletin, Entretiens interdisciplinaires
             </p>
           </VerticalTimelineElement>
 
@@ -59,13 +60,13 @@ function Timeline() {
             iconStyle={{ background: '#FFD300', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Docteur CNRS en Neuroscience</h3>
+            <h3 className="vertical-timeline-element-title">Docteur en Neuroscience CNRS</h3>
             <h4 className="vertical-timeline-element-subtitle">Ecole Normale Supérieure</h4>
             <p>
-              Master en Sciences Cognitives, Licence de Philosophie, Licence de Biologie, Classes préparatoires Biologie
+             Corrélats cérébraux de la vigilance, Apprentissage et sommeil lent, Décodage neuronal de la parole, Attention et sommeil paradoxal     
             </p>
-          
           </VerticalTimelineElement>
+
         </VerticalTimeline>
       </div>
     </div>
