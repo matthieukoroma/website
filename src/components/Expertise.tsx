@@ -68,7 +68,7 @@ function Expertise() {
                     <h3>Ouverture & Interdisciplinarité</h3>
                     <h4>Transformer un domaine</h4>
                     <p>
-                        J'adopte une approche systémique dans le cadre de la science ouverte pour fédérer un réseau d'acteurs interdisciplinaire qui décloisonne les découvertes.
+                        J'adopte une approche systémique et ouverte pour fédérer un réseau d'acteurs interdisciplinaire qui décloisonne les découvertes.
                     </p>
                 </div>
 
@@ -84,7 +84,7 @@ function Expertise() {
                     <h3>Publication & Communication</h3>
                     <h4>Diffuser des connaissances</h4>
                     <p>
-                        J'écris des articles pour différents publics pour développer des outils de communication qui rendent accessible le savoir. 
+                        J'écris des articles vers différents publics pour développer des outils de communication qui rendent accessible le savoir. 
                     </p>
                 </div>
 
