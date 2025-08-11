@@ -11,10 +11,10 @@ import mock09 from '../assets/images/mock09.png';
 import mock10 from '../assets/images/mock10.png';
 import '../assets/styles/Project.scss';
 
-function Project() {
+function Project(){
     return(
     <div className="projects-container" id="projects">
-        <h1>Temps forts</h1>
+        <h1>Accomplissements</h1>
         <div className="projects-grid">
             <div className="project">
                 <a href="https://www.renolow.be" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>

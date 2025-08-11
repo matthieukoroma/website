@@ -67,7 +67,6 @@ function Timeline() {
             </p>
           </VerticalTimelineElement>
 
-
         </VerticalTimeline>
       </div>
     </div>
