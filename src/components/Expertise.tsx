@@ -50,49 +50,49 @@ function Expertise() {
 
                 <div className="skill">
                     <h3>Protocole & Analyse</h3>
-                    <h4>Établir un paradigme de recherche.</h4>
+                    <h4>Établir un paradigme</h4>
                     <p>
-                        J'utilise l'analyse conceptuelle et bibliographique pour permettre la conception d'un protocole qui réponde à une question de recherche.
+                        J'utilise l'analyse conceptuelle et bibliographique pour permettre la conception d'un protocole qui répond à une question.
                     </p>
                 </div>
 
                 <div className="skill">
                     <h3>Projet & Financement</h3>
-                    <h4>Pérenniser un programme de recherche.</h4>
+                    <h4>Pérenniser un programme</h4>
                     <p>
-                        J'évalue la pertinence et les champs d'application d'un projet pour identifier une stratégie de financement qui assure la conduite des recherches.
+                        J'évalue la pertinence et l'application d'un projet pour identifier une stratégie de financement qui assure la conduite des recherches.
                     </p>
                 </div>
 
                 <div className="skill">
                     <h3>Ouverture & Interdisciplinarité</h3>
-                    <h4>Transformer un domaine de recherche.</h4>
+                    <h4>Transformer un domaine</h4>
                     <p>
-                        J'adopte une approche systémique dans le cadre de la science ouverte pour fédérer un réseau d'acteurs interdisciplinaire qui décloisonne les découvertes scientifiques.
+                        J'adopte une approche systémique dans le cadre de la science ouverte pour fédérer un réseau d'acteurs interdisciplinaire qui décloisonne les découvertes.
                     </p>
                 </div>
 
                 <div className="skill">
                     <h3>Formation & Évaluation</h3>
-                    <h4>Encadrer l'apprentissage à la recherche.</h4>
+                    <h4>Encadrer l'apprentissage</h4>
                     <p>
-                       J'accompagne des personnes dans leur formation pour fournir des critères d'évaluation qui favorise l'autonomisation des chercheurs.
+                       J'accompagne des personnes dans leur formation pour fournir des critères d'évaluation qui favorise l'autonomisation des étudiants.
                     </p>
                 </div>
 
                 <div className="skill">
                     <h3>Publication & Communication</h3>
-                    <h4>Diffuser des connaissances de recherche</h4>
+                    <h4>Diffuser des connaissances</h4>
                     <p>
-                        J'écris des articles pour différents publics pour développer des outils de communication qui rendent accessible le savoir scientifique. 
+                        J'écris des articles pour différents publics pour développer des outils de communication qui rendent accessible le savoir. 
                     </p>
                 </div>
 
                 <div className="skill">
                     <h3>Coordination & Facilitation</h3>
-                    <h4>Co-construire la recherche scientifique.</h4>
+                    <h4>Co-construire une communauté</h4>
                     <p>
-                        J'interviens dans la coordination de structures pour faciliter des échanges qui stimulent l'intelligence collective.
+                        J'interviens dans la coordination de structures pour conduire la facilitation d'échanges qui stimule l'intelligence collective.
                     </p>
                 </div>
 
