@@ -2,6 +2,7 @@ import React from "react";
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import '../assets/styles/Main.scss';
+import photo from '../assets/images/photo.png';
 
 function Main() {
 
@@ -9,7 +10,7 @@ function Main() {
     <div className="container">
       <div className="about-section">
         <div className="image-wrapper">
-          <img src="https://drive.google.com/file/d/1EP2GApE-sQ93rEvvhBlf7gWiZBwQwtPq/view?usp=share_link" alt="Avatar" />
+          <img src={photo} alt="Avatar" />
         </div>
         <div className="content">
           <div className="social_icons">
@@ -17,7 +18,7 @@ function Main() {
             <a href="https://www.linkedin.com/in/matthieu-koroma-49096994/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <h1>Matthieu Koroma</h1>
-          <p>Recherche Itinérante, Ouverte et Low-Tech.</p>
+          <p>Recherche Systémique, Ouverte et Low-tech</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/matthieukoroma/" target="_blank" rel="noreferrer"><GitHubIcon/></a>

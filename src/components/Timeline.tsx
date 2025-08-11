@@ -56,7 +56,7 @@ function Timeline() {
 
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2016 - 2020"
+            date="2009 - 2016"
             iconStyle={{ background: '#FFD300', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
@@ -66,6 +66,7 @@ function Timeline() {
              Corrélats cérébraux de la vigilance, Apprentissage et sommeil lent, Décodage neuronal de la parole, Attention et sommeil paradoxal     
             </p>
           </VerticalTimelineElement>
+
 
         </VerticalTimeline>
       </div>
