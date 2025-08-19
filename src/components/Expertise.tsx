@@ -48,51 +48,45 @@ function Expertise() {
             <h1>Savoir-faire</h1>
             <div className="skills-grid">
 
-                <div className="skill">
-                    <h3>Protocole & Analyse</h3>
-                    <h4>Établir un paradigme</h4>
-                    <p>
-                        J'utilise l'analyse conceptuelle et bibliographique pour permettre la conception d'un protocole qui répond à une question.
-                    </p>
-                </div>
-
-                <div className="skill">
-                    <h3>Projet & Financement</h3>
-                    <h4>Pérenniser un programme</h4>
-                    <p>
-                        J'évalue la pertinence et l'application d'un projet pour identifier une stratégie de financement qui assure la conduite des recherches.
-                    </p>
-                </div>
-
-                <div className="skill">
-                    <h3>Ouverture & Interdisciplinarité</h3>
-                    <h4>Transformer un domaine</h4>
-                    <p>
-                        J'adopte une approche systémique et ouverte pour fédérer un réseau d'acteurs interdisciplinaire qui décloisonne les découvertes.
-                    </p>
-                </div>
-
-                <div className="skill">
-                    <h3>Formation & Évaluation</h3>
+            <div className="skill">
                     <h4>Encadrer l'apprentissage</h4>
                     <p>
-                       J'accompagne des personnes dans leur formation pour fournir des critères d'évaluation qui favorise l'autonomisation des étudiants.
+                       Accompagnement dans la formation en fournissant des outils d'évaluation qui favorisent l'autonomie.
                     </p>
                 </div>
 
                 <div className="skill">
-                    <h3>Publication & Communication</h3>
                     <h4>Diffuser des connaissances</h4>
                     <p>
-                        J'écris des articles vers différents publics pour développer des outils de communication qui rendent accessible le savoir. 
+                        Publication de documents en créant des supports de communication qui rendent accessible le savoir. 
                     </p>
                 </div>
 
                 <div className="skill">
-                    <h3>Coordination & Facilitation</h3>
                     <h4>Co-construire une communauté</h4>
                     <p>
-                        J'interviens dans la coordination de structures pour conduire la facilitation d'échanges qui stimule l'intelligence collective.
+                        Coordination des structures en facilitant des échanges ouverts qui stimulent l'intelligence collective.
+                    </p>
+                </div>
+
+                <div className="skill">
+                    <h4>Établir un paradigme</h4>
+                    <p>
+                        Formulation des concepts en mobilisant des connaissances bibliographiques qui répondent à une question scientifique.
+                    </p>
+                </div>
+
+                <div className="skill">
+                    <h4>Pérenniser un programme</h4>
+                    <p>
+                       Structuration des projets en identifiant des stratégies de financement qui assurent la réussite des projets.
+                    </p>
+                </div>
+
+                <div className="skill">
+                    <h4>Transformer un domaine</h4>
+                    <p>
+                        Adoption d'une approche systémique en fédérant un réseau d'acteurs interdisciplinaire qui décloisonne les découvertes.
                     </p>
                 </div>
 

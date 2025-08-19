@@ -1,4 +1,5 @@
 import React from "react";
+import mock00 from '../assets/images/mock00.png';
 import mock01 from '../assets/images/mock01.png';
 import mock02 from '../assets/images/mock02.png';
 import mock03 from '../assets/images/mock03.png';
@@ -16,6 +17,16 @@ function Project(){
     <div className="projects-container" id="projects">
         <h1>Accomplissements</h1>
         <div className="projects-grid">
+        <div className="project">
+                <a href="https://heyzine.com/flip-book/523d8844bf.html⁩" target="_blank" rel="noreferrer"><img src={mock00} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://heyzine.com/flip-book/523d8844bf.html⁩" target="_blank" rel="noreferrer"><h2>Action-recherche : sur la piste de Luhan</h2></a>
+                <p>Festival Low-Tech Liège "De la déconstruction à la reconstruction" 2024 à la forêt de Luhan.</p>
+            </div>
+            <div className="project">
+                <a href="https://heyzine.com/flip-book/523d8844bf.html⁩" target="_blank" rel="noreferrer"><img src={mock00} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://heyzine.com/flip-book/523d8844bf.html⁩" target="_blank" rel="noreferrer"><h2>Action-recherche : sur la piste de Luhan</h2></a>
+                <p>Festival Low-Tech Liège "De la déconstruction à la reconstruction" 2024 à la forêt de Luhan.</p>
+            </div>
             <div className="project">
                 <a href="https://www.renolow.be" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.renolow.be" target="_blank" rel="noreferrer"><h2>Rénovation low-tech</h2></a>
