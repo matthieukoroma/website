@@ -10,6 +10,7 @@ import mock07 from '../assets/images/mock07.png';
 import mock08 from '../assets/images/mock08.png';
 import mock09 from '../assets/images/mock09.png';
 import mock10 from '../assets/images/mock10.png';
+import mock11 from '../assets/images/mock11.png';
 import '../assets/styles/Project.scss';
 
 function Project(){
@@ -17,15 +18,15 @@ function Project(){
     <div className="projects-container" id="projects">
         <h1>Accomplissements</h1>
         <div className="projects-grid">
-        <div className="project">
-                <a href="https://heyzine.com/flip-book/523d8844bf.html⁩" target="_blank" rel="noreferrer"><img src={mock00} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://heyzine.com/flip-book/523d8844bf.html⁩" target="_blank" rel="noreferrer"><h2>Action-recherche : sur la piste de Luhan</h2></a>
-                <p>Festival Low-Tech Liège "De la déconstruction à la reconstruction" 2024 à la forêt de Luhan.</p>
-            </div>
             <div className="project">
                 <a href="https://www.renolow.be" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.renolow.be" target="_blank" rel="noreferrer"><h2>Rénovation low-tech</h2></a>
                 <p>Fonds Renobatex pour la Recherche et Documentation du projet Renolow sur la rénovation écologique du batiment.</p>
+            </div>
+            <div className="project">
+                <a href="https://www.giga.uliege.be/cms/c_12409181/fr/entendre-des-mots-relaxants-dans-son-sommeil-ralentit-le-rythme-cardiaque" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.giga.uliege.be/cms/c_12409181/fr/entendre-des-mots-relaxants-dans-son-sommeil-ralentit-le-rythme-cardiaque" target="_blank" rel="noreferrer"><h2>Relaxation cardiaque</h2></a>
+                <p>Publication sur les réponses cardiaques aux stimulations auditives durant le sommeil.</p>
             </div>
             <div className="project">
                 <a href="https://neuroscience.cam.ac.uk/camneuro-events/cns2024-sleep-consciousness-cognition/" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
@@ -38,19 +39,14 @@ function Project(){
                 <p>Prix Bettencourt pour la recherche sur les marqueurs corporels de la sentience en état de faible vigilance.</p>
             </div>
             <div className="project">
-                <a href="https://www.giga.uliege.be/cms/c_12409181/fr/entendre-des-mots-relaxants-dans-son-sommeil-ralentit-le-rythme-cardiaque" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.giga.uliege.be/cms/c_12409181/fr/entendre-des-mots-relaxants-dans-son-sommeil-ralentit-le-rythme-cardiaque" target="_blank" rel="noreferrer"><h2>Relaxation Cardiaque</h2></a>
-                <p>Publication sur les réponses cardiaques aux stimulations auditives durant le sommeil.</p>
-            </div>
-            <div className="project">
-                <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><h2>Bulletin ALIUS</h2></a>
-                <p>Co-édition des bulletins ALIUS et conduction d'une dizaine d'interviews de chercheur-se-s sur la conscience.</p>
-            </div>
-            <div className="project">
                 <a href="https://theses.fr/2020UPSLE043" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://theses.fr/2020UPSLE043" target="_blank" rel="noreferrer"><h2>Décodage neuronal</h2></a>
                 <p>Thèse de doctorat sur le décodage électroencéphalographique des états de vigilance au cours de l'éveil et du sommeil.</p>
+            </div>
+            <div className="project">
+                <a href="https://justineemard.com/reves-lucides-se-reconnecter-avec-ses-reves/" target="_blank" rel="noreferrer"><img src={mock00} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://justineemard.com/reves-lucides-se-reconnecter-avec-ses-reves/" target="_blank" rel="noreferrer"><h2>Se reconnecter avec ses rêves</h2></a>
+                <p>Rencontre Art-Science de vulgarisation scientifique des découvertes sur les rêves et le sommeil.</p>
             </div>
             <div className="project">
                 <a href="https://theconversation.com/hypnopedie-peut-on-apprendre-une-langue-etrangere-en-dormant-184113" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
@@ -62,6 +58,27 @@ function Project(){
                 <a href="https://www.cnrs.fr/sites/default/files/press_info/2019-02/CP_Kouider_sommeilFRWeb.pdf" target="_blank" rel="noreferrer"><h2>Sommeil Paradoxal</h2></a>
                 <p>Publication sur l'orientation de l'attention pendant le sommeil et sa relation avec les mouvements occulaires rapides.</p>
             </div>
+            <div className="project">
+                <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><h2>Séminaire de recherche</h2></a>
+                <p>Organisation d'un séminaire de recherche ALIUS sur les états altérés de conscience.</p>
+            </div>
+            <div className="project">
+                <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><h2>Bulletin annuel</h2></a>
+                <p>Co-édition des bulletins ALIUS et conduction d'une dizaine d'interviews de chercheur-se-s sur la conscience.</p>
+            </div>
+            <div className="project">
+                <a href="https://psl.eu" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://psl.eu" target="_blank" rel="noreferrer"><h2>Chargé d'enseignement</h2></a>
+                <p>Travaux Dirigés Niveau Master - Ingénierie Cognitive et niveau Licence - Introduction aux sciences cognitives à l'Université Paris Science Lettres.</p>
+            </div>
+            <div className="project">
+                <a href="https://www.columbia.edu" target="_blank" rel="noreferrer"><img src={mock11} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.columbia.edu" target="_blank" rel="noreferrer"><h2>Analyse de Données</h2></a>
+                <p>Formateur au Neuroscience Bootcamp – Psychologie & Neurosciences à l'Université de Columbia.</p>
+            </div>
+
         </div>
     </div>
     );
