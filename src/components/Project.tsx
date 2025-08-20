@@ -24,14 +24,14 @@ function Project(){
                 <p>Fonds Renobatex pour la Recherche et Documentation du projet Renolow sur la rénovation écologique du batiment.</p>
             </div>
             <div className="project">
-                <a href="https://www.giga.uliege.be/cms/c_12409181/fr/entendre-des-mots-relaxants-dans-son-sommeil-ralentit-le-rythme-cardiaque" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.giga.uliege.be/cms/c_12409181/fr/entendre-des-mots-relaxants-dans-son-sommeil-ralentit-le-rythme-cardiaque" target="_blank" rel="noreferrer"><h2>Relaxation cardiaque</h2></a>
-                <p>Publication sur les réponses cardiaques aux stimulations auditives durant le sommeil.</p>
-            </div>
-            <div className="project">
                 <a href="https://neuroscience.cam.ac.uk/camneuro-events/cns2024-sleep-consciousness-cognition/" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://neuroscience.cam.ac.uk/camneuro-events/cns2024-sleep-consciousness-cognition/" target="_blank" rel="noreferrer"><h2>Coeur conscient</h2></a>
                 <p>Prix Post-Doctorant de l'Université de Cambridge sur les corrélats cardiaques des marqueurs de la conscience.</p>
+            </div>
+            <div className="project">
+                <a href="https://www.giga.uliege.be/cms/c_12409181/fr/entendre-des-mots-relaxants-dans-son-sommeil-ralentit-le-rythme-cardiaque" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.giga.uliege.be/cms/c_12409181/fr/entendre-des-mots-relaxants-dans-son-sommeil-ralentit-le-rythme-cardiaque" target="_blank" rel="noreferrer"><h2>Relaxation cardiaque</h2></a>
+                <p>Publication sur les réponses cardiaques aux stimulations auditives durant le sommeil.</p>
             </div>
             <div className="project">
                 <a href="https://www.fondationbs.org/notre-communaute/laureats-et-projets/matthieu-koroma" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
@@ -39,14 +39,14 @@ function Project(){
                 <p>Prix Bettencourt pour la recherche sur les marqueurs corporels de la sentience en état de faible vigilance.</p>
             </div>
             <div className="project">
-                <a href="https://theses.fr/2020UPSLE043" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://theses.fr/2020UPSLE043" target="_blank" rel="noreferrer"><h2>Décodage neuronal</h2></a>
-                <p>Thèse de doctorat sur le décodage électroencéphalographique des états de vigilance au cours de l'éveil et du sommeil.</p>
-            </div>
-            <div className="project">
                 <a href="https://justineemard.com/reves-lucides-se-reconnecter-avec-ses-reves/" target="_blank" rel="noreferrer"><img src={mock00} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://justineemard.com/reves-lucides-se-reconnecter-avec-ses-reves/" target="_blank" rel="noreferrer"><h2>Se reconnecter avec ses rêves</h2></a>
                 <p>Rencontre Art-Science de vulgarisation scientifique des découvertes sur les rêves et le sommeil.</p>
+            </div>
+            <div className="project">
+                <a href="https://theses.fr/2020UPSLE043" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://theses.fr/2020UPSLE043" target="_blank" rel="noreferrer"><h2>Décodage neuronal</h2></a>
+                <p>Thèse de doctorat sur le décodage électroencéphalographique des états de vigilance au cours de l'éveil et du sommeil.</p>
             </div>
             <div className="project">
                 <a href="https://theconversation.com/hypnopedie-peut-on-apprendre-une-langue-etrangere-en-dormant-184113" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
