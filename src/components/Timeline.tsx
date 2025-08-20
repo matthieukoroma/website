@@ -86,10 +86,10 @@ function Timeline() {
             iconStyle={{ background: '#FFD300', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Formation Interdisciplinaire</h3>
+            <h3 className="vertical-timeline-element-title">Élève fonctionnaire</h3>
             <h4 className="vertical-timeline-element-subtitle">Ecole Normale Supérieure Paris-Saclay</h4>
             <p>
-             Master Sciences Cognitives, Licence de Biologie, Licence de Philosophie, Année Pleine de Recherche à l'Étranger     
+             Master Sciences Cognitives, Licence de Biologie, Licence de Philosophie, Classes préparatoires BCPST     
             </p>
           </VerticalTimelineElement>
 

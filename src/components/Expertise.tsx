@@ -51,42 +51,42 @@ function Expertise() {
             <div className="skill">
                     <h4>Encadrer l'apprentissage</h4>
                     <p>
-                       Accompagnement dans la formation en fournissant des outils d'évaluation qui favorisent l'autonomie.
+                       Accompagner la formation en fournissant des outils d'évaluation qui favorisent l'autonomie.
                     </p>
                 </div>
 
                 <div className="skill">
                     <h4>Diffuser des connaissances</h4>
                     <p>
-                        Publication de ressources en créant des supports de communication qui rendent accessible le savoir. 
+                        Publier de ressources en concevant des supports de communication qui rendent accessible le savoir. 
                     </p>
                 </div>
 
                 <div className="skill">
                     <h4>Co-construire une communauté</h4>
                     <p>
-                        Coordination des structures en facilitant des échanges ouverts qui stimulent l'intelligence collective.
+                        Coordonner des structures en facilitant des échanges ouverts qui stimulent l'intelligence collective.
                     </p>
                 </div>
 
                 <div className="skill">
                     <h4>Établir un paradigme</h4>
                     <p>
-                        Formulation de concepts en mobilisant des connaissances bibliographiques qui répondent à une question scientifique.
+                        Formuler des concepts en mobilisant des connaissances bibliographiques qui répondant à une question scientifique.
                     </p>
                 </div>
 
                 <div className="skill">
                     <h4>Pérenniser un programme</h4>
                     <p>
-                       Élaboration de stratégies en identifiant des sources de financement qui assurent la conduite des projets.
+                       Élaborer des stratégies en ciblant des sources de financement qui assurent la conduite des projets.
                     </p>
                 </div>
 
                 <div className="skill">
                     <h4>Transformer un domaine</h4>
                     <p>
-                        Fédération d'un réseau en adoptant une approche systémique qui décloisonne les découvertes.
+                        Fédérer un réseau en adoptant une approche systémique qui décloisonne les découvertes.
                     </p>
                 </div>
 

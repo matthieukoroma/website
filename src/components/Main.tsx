@@ -18,7 +18,8 @@ function Main() {
             <a href="https://www.linkedin.com/in/matthieu-koroma-49096994/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <h1>Matthieu Koroma</h1>
-          <p>Recherche Systémique, Ouverte et Low-tech</p>
+          <p>Membre de Low Tech Liège et ALIUS Research Group, Docteur en Neuroscience de l’Ecole Normale Supérieure de Paris, Collaborateur Scientifique à l’Université de Liège 
+</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/matthieukoroma/" target="_blank" rel="noreferrer"><GitHubIcon/></a>

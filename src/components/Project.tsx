@@ -17,10 +17,10 @@ function Project(){
     <div className="projects-container" id="projects">
         <h1>Accomplissements</h1>
         <div className="projects-grid">
-        <div className="project">
-                <a href="https://drive.google.com/file/d/1drHmUpB-xVcDeBXjYdDiSvama5PwaLC0/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock00} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://drive.google.com/file/d/1drHmUpB-xVcDeBXjYdDiSvama5PwaLC0/view?usp=sharing" target="_blank" rel="noreferrer"><h2>Du Savoir-Faire au Faire-Savoir</h2></a>
-                <p>Chronique Low Tech d'éducation permanente à destination de la diffusion radiophonique</p>
+            <div className="project">
+                <a href="https://www.renolow.be" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.renolow.be" target="_blank" rel="noreferrer"><h2>Rénovation low-tech</h2></a>
+                <p>Fonds Renobatex pour la Recherche et Documentation du projet Renolow sur la rénovation écologique du batiment</p>
             </div>
             <div className="project">
                 <a href="https://heyzine.com/flip-book/523d8844bf.html⁩" target="_blank" rel="noreferrer"><img src={mock00} className="zoom" alt="thumbnail" width="100%"/></a>
@@ -28,9 +28,9 @@ function Project(){
                 <p>Action-recherche dans le cadre du Festival Low-Tech Liège 2024 à la Forêt de Luhan</p>
             </div>
             <div className="project">
-                <a href="https://www.renolow.be" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.renolow.be" target="_blank" rel="noreferrer"><h2>Rénovation low-tech</h2></a>
-                <p>Fonds Renobatex pour la Recherche et Documentation du projet Renolow sur la rénovation écologique du batiment</p>
+                <a href="https://drive.google.com/file/d/1drHmUpB-xVcDeBXjYdDiSvama5PwaLC0/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock00} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://drive.google.com/file/d/1drHmUpB-xVcDeBXjYdDiSvama5PwaLC0/view?usp=sharing" target="_blank" rel="noreferrer"><h2>Du Savoir-Faire au Faire-Savoir</h2></a>
+                <p>Chronique Low Tech d'éducation permanente à destination de la diffusion radiophonique</p>
             </div>
             <div className="project">
                 <a href="https://neuroscience.cam.ac.uk/camneuro-events/cns2024-sleep-consciousness-cognition/" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
@@ -38,14 +38,14 @@ function Project(){
                 <p>Prix Post-Doctorant de l'Université de Cambridge sur les corrélats cardiaques des marqueurs de la conscience</p>
             </div>
             <div className="project">
-                <a href="https://www.fondationbs.org/notre-communaute/laureats-et-projets/matthieu-koroma" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.fondationbs.org/notre-communaute/laureats-et-projets/matthieu-koroma" target="_blank" rel="noreferrer"><h2>Sentience corporelle</h2></a>
-                <p>Prix Bettencourt pour la recherche sur les marqueurs corporels de la sentience en état de faible vigilance</p>
-            </div>
-            <div className="project">
                 <a href="https://www.giga.uliege.be/cms/c_12409181/fr/entendre-des-mots-relaxants-dans-son-sommeil-ralentit-le-rythme-cardiaque" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.giga.uliege.be/cms/c_12409181/fr/entendre-des-mots-relaxants-dans-son-sommeil-ralentit-le-rythme-cardiaque" target="_blank" rel="noreferrer"><h2>Relaxation Cardiaque</h2></a>
                 <p>Publication sur les réponses cardiaques aux stimulations auditives durant le sommeil</p>
+            </div>
+            <div className="project">
+                <a href="https://www.fondationbs.org/notre-communaute/laureats-et-projets/matthieu-koroma" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.fondationbs.org/notre-communaute/laureats-et-projets/matthieu-koroma" target="_blank" rel="noreferrer"><h2>Sentience corporelle</h2></a>
+                <p>Prix Bettencourt pour la recherche sur les marqueurs corporels de la sentience en état de faible vigilance</p>
             </div>
             <div className="project">
                 <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
@@ -77,19 +77,11 @@ function Project(){
                 <a href="https://www.cnrs.fr/sites/default/files/press_info/2019-02/CP_Kouider_sommeilFRWeb.pdf" target="_blank" rel="noreferrer"><h2>Sommeil Paradoxal</h2></a>
                 <p>Publication sur l'orientation de l'attention pendant le sommeil et sa relation avec les mouvements occulaires rapides</p>
             </div>
-
             <div className="project">
                 <a href="https://www.cnrs.fr/sites/default/files/press_info/2019-02/CP_Kouider_sommeilFRWeb.pdf" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.cnrs.fr/sites/default/files/press_info/2019-02/CP_Kouider_sommeilFRWeb.pdf" target="_blank" rel="noreferrer"><h2>Se reconnecter avec ses rêves</h2></a>
                 <p>Vulgarisation Art-Science autour des travaux sur la physiologie du cerveau et les phénomènes oniriques</p>
             </div>
-
-            <div className="project">
-                <a href="https://drive.google.com/file/d/1-jAfLpxmfZbw3oBZE4VDjUb4FkcBZL-h/view" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://drive.google.com/file/d/1-jAfLpxmfZbw3oBZE4VDjUb4FkcBZL-h/view" target="_blank" rel="noreferrer"><h2>Apprentiss’âge</h2></a>
-                <p>Vulgarisation en maison de retraite sur les liens entre la mémoire, le sommeil et les rêves</p>
-            </div>
-
             <div className="project">
                 <a href="https://drive.google.com/file/d/14AzvZUhmgtZ449YXiHq3wI66198ccICt/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://drive.google.com/file/d/14AzvZUhmgtZ449YXiHq3wI66198ccICt/view?usp=sharing" target="_blank" rel="noreferrer"><h2>Echo de la Butte</h2></a>
