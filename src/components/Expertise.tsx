@@ -51,42 +51,42 @@ function Expertise() {
             <div className="skill">
                     <h4>Établir un paradigme</h4>
                     <p>
-                        Formulation des concepts en mobilisant des connaissances bibliographiques qui répondent à une question scientifique.
+                        Formuler des concepts en mobilisant des connaissances bibliographiques qui répondent à une question scientifique.
                     </p>
                 </div>
 
                 <div className="skill">
                     <h4>Pérenniser un programme</h4>
                     <p>
-                       Identification des stratégies en ciblant des sources de financement qui assurent la conduite des projets.
+                       Identifier des stratégies en ciblant des sources de financement qui assurent la conduite des projets.
                     </p>
                 </div>
 
                 <div className="skill">
                     <h4>Transformer un domaine</h4>
                     <p>
-                        Fédération d'un réseau interdisciplinaire en adoptant une approche systémique qui décloisonne les découvertes.
+                       Fédérer un réseau interdisciplinaire en adoptant une approche systémique qui décloisonne les découvertes.
                     </p>
                 </div>
 
              <div className="skill">
                     <h4>Encadrer l'apprentissage</h4>
                     <p>
-                       Accompagnement dans la formation scientifique en fournissant des outils d'évaluation qui favorisent l'autonomie.
+                       Accompager dans la formation scientifique en fournissant des outils d'évaluation qui favorisent l'autonomie.
                     </p>
                 </div>
 
                 <div className="skill">
                     <h4>Diffuser des connaissances</h4>
                     <p>
-                        Publication de ressources documentaires en créant des supports de communication qui rendent accessible le savoir. 
+                        Publier de ressources en créant des supports de communication qui rendent accessible le savoir. 
                     </p>
                 </div>
 
                 <div className="skill">
                     <h4>Co-construire une communauté</h4>
                     <p>
-                        Coordination des structures en facilitant des échanges ouverts qui stimulent l'intelligence collective.
+                        Coordiner des structures en facilitant des échanges ouverts qui stimulent l'intelligence collective.
                     </p>
                 </div>
 

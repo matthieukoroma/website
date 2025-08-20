@@ -59,19 +59,19 @@ function Project(){
                 <p>Publication sur l'orientation de l'attention pendant le sommeil et sa relation avec les mouvements occulaires rapides.</p>
             </div>
             <div className="project">
-                <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><h2>Séminaire de recherche</h2></a>
-                <p>Organisation d'un séminaire de recherche ALIUS sur les états altérés de conscience.</p>
-            </div>
-            <div className="project">
                 <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><h2>Bulletin annuel</h2></a>
                 <p>Co-édition des bulletins ALIUS et conduction d'une dizaine d'interviews de chercheur-se-s sur la conscience.</p>
             </div>
             <div className="project">
+                <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><h2>Séminaire de recherche</h2></a>
+                <p>Organisation d'un séminaire de recherche ALIUS sur les états altérés de conscience.</p>
+            </div>
+            <div className="project">
                 <a href="https://psl.eu" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://psl.eu" target="_blank" rel="noreferrer"><h2>Chargé d'enseignement</h2></a>
-                <p>Travaux Dirigés Niveau Master - Ingénierie Cognitive et niveau Licence - Introduction aux sciences cognitives à l'Université Paris Science Lettres.</p>
+                <a href="https://psl.eu" target="_blank" rel="noreferrer"><h2>Travaux Dirigés</h2></a>
+                <p>Chargé d'enseignement niveau Master et Licence en Sciences Cognitives à l'Université Paris Science Lettres.</p>
             </div>
             <div className="project">
                 <a href="https://www.columbia.edu" target="_blank" rel="noreferrer"><img src={mock11} className="zoom" alt="thumbnail" width="100%"/></a>
