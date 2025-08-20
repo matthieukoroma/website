@@ -23,11 +23,6 @@ function Project(){
                 <p>Festival Low-Tech Liège "De la déconstruction à la reconstruction" 2024 à la forêt de Luhan.</p>
             </div>
             <div className="project">
-                <a href="https://heyzine.com/flip-book/523d8844bf.html⁩" target="_blank" rel="noreferrer"><img src={mock00} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://heyzine.com/flip-book/523d8844bf.html⁩" target="_blank" rel="noreferrer"><h2>Action-recherche : sur la piste de Luhan</h2></a>
-                <p>Festival Low-Tech Liège "De la déconstruction à la reconstruction" 2024 à la forêt de Luhan.</p>
-            </div>
-            <div className="project">
                 <a href="https://www.renolow.be" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.renolow.be" target="_blank" rel="noreferrer"><h2>Rénovation low-tech</h2></a>
                 <p>Fonds Renobatex pour la Recherche et Documentation du projet Renolow sur la rénovation écologique du batiment.</p>
