@@ -58,7 +58,7 @@ function Expertise() {
                 <div className="skill">
                     <h4>Diffuser des connaissances</h4>
                     <p>
-                        Publication de documents en créant des supports de communication qui rendent accessible le savoir. 
+                        Publication de ressources en créant des supports de communication qui rendent accessible le savoir. 
                     </p>
                 </div>
 
@@ -72,21 +72,21 @@ function Expertise() {
                 <div className="skill">
                     <h4>Établir un paradigme</h4>
                     <p>
-                        Formulation des concepts en mobilisant des connaissances bibliographiques qui répondent à une question scientifique.
+                        Formulation de concepts en mobilisant des connaissances bibliographiques qui répondent à une question scientifique.
                     </p>
                 </div>
 
                 <div className="skill">
                     <h4>Pérenniser un programme</h4>
                     <p>
-                       Structuration des projets en identifiant des stratégies de financement qui assurent la réussite des projets.
+                       Élaboration de stratégies en identifiant des sources de financement qui assurent la conduite des projets.
                     </p>
                 </div>
 
                 <div className="skill">
                     <h4>Transformer un domaine</h4>
                     <p>
-                        Adoption d'une approche systémique en fédérant un réseau d'acteurs interdisciplinaire qui décloisonne les découvertes.
+                        Fédération d'un réseau en adoptant une approche systémique qui décloisonne les découvertes.
                     </p>
                 </div>
 

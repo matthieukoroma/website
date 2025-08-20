@@ -18,55 +18,84 @@ function Project(){
         <h1>Accomplissements</h1>
         <div className="projects-grid">
         <div className="project">
-                <a href="https://heyzine.com/flip-book/523d8844bf.html⁩" target="_blank" rel="noreferrer"><img src={mock00} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://heyzine.com/flip-book/523d8844bf.html⁩" target="_blank" rel="noreferrer"><h2>Action-recherche : sur la piste de Luhan</h2></a>
-                <p>Festival Low-Tech Liège "De la déconstruction à la reconstruction" 2024 à la forêt de Luhan.</p>
+                <a href="https://drive.google.com/file/d/1drHmUpB-xVcDeBXjYdDiSvama5PwaLC0/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock00} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://drive.google.com/file/d/1drHmUpB-xVcDeBXjYdDiSvama5PwaLC0/view?usp=sharing" target="_blank" rel="noreferrer"><h2>Du Savoir-Faire au Faire-Savoir</h2></a>
+                <p>Chronique Low Tech d'éducation permanente à destination de la diffusion radiophonique</p>
             </div>
             <div className="project">
                 <a href="https://heyzine.com/flip-book/523d8844bf.html⁩" target="_blank" rel="noreferrer"><img src={mock00} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://heyzine.com/flip-book/523d8844bf.html⁩" target="_blank" rel="noreferrer"><h2>Action-recherche : sur la piste de Luhan</h2></a>
-                <p>Festival Low-Tech Liège "De la déconstruction à la reconstruction" 2024 à la forêt de Luhan.</p>
+                <a href="https://heyzine.com/flip-book/523d8844bf.html⁩" target="_blank" rel="noreferrer"><h2>Sur la piste de Luhan</h2></a>
+                <p>Action-recherche dans le cadre du Festival Low-Tech Liège 2024 à la Forêt de Luhan</p>
             </div>
             <div className="project">
                 <a href="https://www.renolow.be" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.renolow.be" target="_blank" rel="noreferrer"><h2>Rénovation low-tech</h2></a>
-                <p>Fonds Renobatex pour la Recherche et Documentation du projet Renolow sur la rénovation écologique du batiment.</p>
+                <p>Fonds Renobatex pour la Recherche et Documentation du projet Renolow sur la rénovation écologique du batiment</p>
             </div>
             <div className="project">
                 <a href="https://neuroscience.cam.ac.uk/camneuro-events/cns2024-sleep-consciousness-cognition/" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://neuroscience.cam.ac.uk/camneuro-events/cns2024-sleep-consciousness-cognition/" target="_blank" rel="noreferrer"><h2>Coeur conscient</h2></a>
-                <p>Prix Post-Doctorant de l'Université de Cambridge sur les corrélats cardiaques des marqueurs de la conscience.</p>
+                <p>Prix Post-Doctorant de l'Université de Cambridge sur les corrélats cardiaques des marqueurs de la conscience</p>
             </div>
             <div className="project">
                 <a href="https://www.fondationbs.org/notre-communaute/laureats-et-projets/matthieu-koroma" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.fondationbs.org/notre-communaute/laureats-et-projets/matthieu-koroma" target="_blank" rel="noreferrer"><h2>Sentience corporelle</h2></a>
-                <p>Prix Bettencourt pour la recherche sur les marqueurs corporels de la sentience en état de faible vigilance.</p>
+                <p>Prix Bettencourt pour la recherche sur les marqueurs corporels de la sentience en état de faible vigilance</p>
             </div>
             <div className="project">
                 <a href="https://www.giga.uliege.be/cms/c_12409181/fr/entendre-des-mots-relaxants-dans-son-sommeil-ralentit-le-rythme-cardiaque" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.giga.uliege.be/cms/c_12409181/fr/entendre-des-mots-relaxants-dans-son-sommeil-ralentit-le-rythme-cardiaque" target="_blank" rel="noreferrer"><h2>Relaxation Cardiaque</h2></a>
-                <p>Publication sur les réponses cardiaques aux stimulations auditives durant le sommeil.</p>
+                <p>Publication sur les réponses cardiaques aux stimulations auditives durant le sommeil</p>
             </div>
             <div className="project">
                 <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.aliusresearch.org/bulletin.html" target="_blank" rel="noreferrer"><h2>Bulletin ALIUS</h2></a>
-                <p>Co-édition des bulletins ALIUS et conduction d'une dizaine d'interviews de chercheur-se-s sur la conscience.</p>
+                <p>Co-édition des bulletins ALIUS et conduction d'interviews de chercheur-se-s sur la conscience</p>
+            </div>
+            <div className="project">
+                <a href="https://shows.acast.com/into-the-mind" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://shows.acast.com/into-the-mind" target="_blank" rel="noreferrer"><h2>Into the mind</h2></a>
+                <p>Podcast du groupe d'ALIUS Research vulgarisant les connaissances sur les états altérés de conscience</p>
+            </div>
+            <div className="project">
+                <a href="http://www.aliusresearch.org/workshop-2017.html" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="http://www.aliusresearch.org/workshop-2017.html" target="_blank" rel="noreferrer"><h2>Workshop ALIUS</h2></a>
+                <p>Séminaire de recherche interdisciplinaire sur les recherches portants sur les états altérés de conscience</p>
             </div>
             <div className="project">
                 <a href="https://theses.fr/2020UPSLE043" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://theses.fr/2020UPSLE043" target="_blank" rel="noreferrer"><h2>Décodage neuronal</h2></a>
-                <p>Thèse de doctorat sur le décodage électroencéphalographique des états de vigilance au cours de l'éveil et du sommeil.</p>
+                <p>Thèse de doctorat sur le décodage électroencéphalographique des états de vigilance au cours de l'éveil et du sommeil</p>
             </div>
             <div className="project">
                 <a href="https://theconversation.com/hypnopedie-peut-on-apprendre-une-langue-etrangere-en-dormant-184113" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://theconversation.com/hypnopedie-peut-on-apprendre-une-langue-etrangere-en-dormant-184113" target="_blank" rel="noreferrer"><h2>Apprentissage sommeil</h2></a>
-                <p>Publication sur l'apprentissage d'une langue étrangère pendant le sommeil et ses corrélats neuronaux.</p>
+                <p>Publication sur l'apprentissage d'une langue étrangère pendant le sommeil et ses corrélats neuronaux</p>
             </div>
             <div className="project">
                 <a href="https://www.cnrs.fr/sites/default/files/press_info/2019-02/CP_Kouider_sommeilFRWeb.pdf" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.cnrs.fr/sites/default/files/press_info/2019-02/CP_Kouider_sommeilFRWeb.pdf" target="_blank" rel="noreferrer"><h2>Sommeil Paradoxal</h2></a>
-                <p>Publication sur l'orientation de l'attention pendant le sommeil et sa relation avec les mouvements occulaires rapides.</p>
+                <p>Publication sur l'orientation de l'attention pendant le sommeil et sa relation avec les mouvements occulaires rapides</p>
             </div>
+
+            <div className="project">
+                <a href="https://www.cnrs.fr/sites/default/files/press_info/2019-02/CP_Kouider_sommeilFRWeb.pdf" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.cnrs.fr/sites/default/files/press_info/2019-02/CP_Kouider_sommeilFRWeb.pdf" target="_blank" rel="noreferrer"><h2>Se reconnecter avec ses rêves</h2></a>
+                <p>Vulgarisation Art-Science autour des travaux sur la physiologie du cerveau et les phénomènes oniriques</p>
+            </div>
+
+            <div className="project">
+                <a href="https://drive.google.com/file/d/1-jAfLpxmfZbw3oBZE4VDjUb4FkcBZL-h/view" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://drive.google.com/file/d/1-jAfLpxmfZbw3oBZE4VDjUb4FkcBZL-h/view" target="_blank" rel="noreferrer"><h2>Apprentiss’âge</h2></a>
+                <p>Vulgarisation en maison de retraite sur les liens entre la mémoire, le sommeil et les rêves</p>
+            </div>
+
+            <div className="project">
+                <a href="https://drive.google.com/file/d/14AzvZUhmgtZ449YXiHq3wI66198ccICt/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://drive.google.com/file/d/14AzvZUhmgtZ449YXiHq3wI66198ccICt/view?usp=sharing" target="_blank" rel="noreferrer"><h2>Echo de la Butte</h2></a>
+                <p>Journal d'actualités du potager collectif de Solidarité Normalienne et thématiques environnementales</p>
+            </div>
+
         </div>
     </div>
     );
