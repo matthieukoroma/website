@@ -53,8 +53,7 @@ function Contact() {
     <div id="contact">
       <div className="items-container">
         <div className="contact_wrapper">
-          <h1>Contactez-moi</h1>
-          <p>Pour me contacter:</p>
+          <h1>Si vous souhaitez me contacter, remplissez svp le formulaire ci-dessous:</h1>
           <Box
             ref={form}
             component="form"

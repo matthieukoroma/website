@@ -58,21 +58,21 @@ function Expertise() {
                 <div className="skill">
                     <h4>Pérenniser un programme</h4>
                     <p>
-                       Identifier des stratégies en ciblant des sources de financement qui assurent la conduite des projets.
+                       Établir des stratégies en ciblant des sources de financement qui assurent la conduite des projets.
                     </p>
                 </div>
 
                 <div className="skill">
                     <h4>Transformer un domaine</h4>
                     <p>
-                       Fédérer un réseau interdisciplinaire en adoptant une approche systémique qui décloisonne les découvertes.
+                       Fédérer des réseaux en adoptant des approches systémiques qui décloisonnent les découvertes.
                     </p>
                 </div>
 
              <div className="skill">
                     <h4>Encadrer l'apprentissage</h4>
                     <p>
-                       Accompager dans la formation scientifique en fournissant des outils d'évaluation qui favorisent l'autonomie.
+                       Accompager des formations en fournissant des outils d'évaluation qui favorisent l'autonomie.
                     </p>
                 </div>
 

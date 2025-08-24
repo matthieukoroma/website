@@ -47,7 +47,7 @@ function Timeline() {
             iconStyle={{ background: '#FFD300', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Coordinateur ALIUS</h3>
+            <h3 className="vertical-timeline-element-title">Coordinateur du réseau ALIUS</h3>
             <h4 className="vertical-timeline-element-subtitle">ALIUS Research Group</h4>
             <p>
              Etats altérés de conscience, Conférences internationales, Co-édition du Bulletin, Entretiens interdisciplinaires
@@ -73,7 +73,7 @@ function Timeline() {
             iconStyle={{ background: '#FFD300', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Responsable Environnement</h3>
+            <h3 className="vertical-timeline-element-title">Responsable Environnement SoNo</h3>
             <h4 className="vertical-timeline-element-subtitle">Solidarité Normalienne</h4>
             <p>
              Potager collectif, Journal de vulgarisation, Association pour le maintien d'une agriculture paysanne, Événements de sensibilisation écologique      
@@ -86,7 +86,7 @@ function Timeline() {
             iconStyle={{ background: '#FFD300', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Élève Normalien</h3>
+            <h3 className="vertical-timeline-element-title">Élève Normalien ENS</h3>
             <h4 className="vertical-timeline-element-subtitle">Ecole Normale Supérieure Paris-Saclay</h4>
             <p>
              Master Sciences Cognitives, Licence de Biologie, Licence de Philosophie, Classes préparatoire BCPST     
