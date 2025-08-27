@@ -72,7 +72,7 @@ function Expertise() {
              <div className="skill">
                     <h4>Encadrer l'apprentissage</h4>
                     <p>
-                       Accompager des formations en fournissant des outils d'évaluation qui favorisent l'autonomie.
+                       Accompagner des formations en fournissant des outils d'évaluation qui favorisent l'autonomie.
                     </p>
                 </div>
 
